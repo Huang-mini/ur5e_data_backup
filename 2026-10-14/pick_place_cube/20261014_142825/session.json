@@ -1,0 +1,195 @@
+{
+  "schema_version": 3,
+  "run_id": "20261014_142825",
+  "task": "pick_place_cube",
+  "note": "补充采集第05条",
+  "started_at": "2026-10-14T14:28:28.561132+08:00",
+  "finished_at": "2026-10-14T14:28:44.955146+08:00",
+  "duration_s": 16.393,
+  "recording_status": "completed",
+  "stop_reason": "user_quit",
+  "outcome": "success",
+  "reviews": [
+    {
+      "reviewed_at": "2026-10-14T14:28:46.895508+08:00",
+      "result": "success",
+      "note": null
+    }
+  ],
+  "code_commit": null,
+  "robot": {
+    "script_port": 30001,
+    "rtde_port": 30004,
+    "rtde_frequency_hz": 10.0,
+    "socket_timeout_s": 10.0,
+    "home_tcp_pose": [
+      -0.4479512414,
+      -0.4779532359,
+      0.3397913564,
+      1.1351054288,
+      2.8938840645,
+      -0.0267875432
+    ]
+  },
+  "gripper": {
+    "baudrate": 9600,
+    "timeout_s": 1.0
+  },
+  "cameras": {
+    "width": 640,
+    "height": 480,
+    "fps": 30,
+    "save_hz": 10.0,
+    "warmup_frames": 60
+  },
+  "state_recording": {
+    "representations": [
+      "tcp",
+      "joint"
+    ],
+    "rtde_fields": [
+      "timestamp",
+      "actual_TCP_pose",
+      "actual_q",
+      "actual_qd",
+      "tcp_offset"
+    ],
+    "csv_columns": [
+      "controller_time_s",
+      "tcp_x",
+      "tcp_y",
+      "tcp_z",
+      "tcp_rx",
+      "tcp_ry",
+      "tcp_rz",
+      "gripper_state",
+      "gripper_event_counter",
+      "actual_q_0",
+      "actual_q_1",
+      "actual_q_2",
+      "actual_q_3",
+      "actual_q_4",
+      "actual_q_5",
+      "actual_qd_0",
+      "actual_qd_1",
+      "actual_qd_2",
+      "actual_qd_3",
+      "actual_qd_4",
+      "actual_qd_5",
+      "host_receive_time_s"
+    ],
+    "joint_source": "actual_q",
+    "joint_velocity_source": "actual_qd",
+    "tcp_source": "actual_TCP_pose",
+    "joint_order": [
+      "base",
+      "shoulder",
+      "elbow",
+      "wrist_1",
+      "wrist_2",
+      "wrist_3"
+    ],
+    "joint_position_unit": "rad",
+    "joint_velocity_unit": "rad/s",
+    "tcp_pose_units": [
+      "m",
+      "m",
+      "m",
+      "rad",
+      "rad",
+      "rad"
+    ],
+    "tcp_pose_frame": "robot_base",
+    "tcp_orientation": "rotation_vector",
+    "sample_relation": "same_rtde_packet",
+    "host_receive_time_clock": "unix_seconds_not_camera_exposure",
+    "gripper_state_semantics": "commanded_open_0_closed_1_not_measured_width",
+    "tcp_offset_source": "tcp_offset_flange_to_tcp"
+  },
+  "initial_robot_state": {
+    "controller_time_s": 2357.4829999999997,
+    "tcp_pose": [
+      -0.4479528905670743,
+      -0.47795520749842524,
+      0.3397871783786185,
+      1.1350808228836804,
+      2.8938885641893726,
+      -0.02679523452113019
+    ],
+    "actual_q": [
+      0.6091078519821167,
+      -1.1708297592452546,
+      1.4655068556415003,
+      -1.8609196148314417,
+      -1.5287345091449183,
+      -0.21473962465395147
+    ],
+    "actual_qd": [
+      0.0,
+      0.0,
+      -0.0,
+      -0.0,
+      -0.0,
+      0.0
+    ],
+    "tcp_offset": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "host_receive_time_s": 1791959308.3490694
+  },
+  "collection": {
+    "enable_freedrive_on_start": true,
+    "initial_gripper_state": "open",
+    "preview": false,
+    "save_video": false
+  },
+  "paths": {
+    "rtde": "action.csv",
+    "gripper_events": "gripper_events.csv",
+    "sync": "sync.csv",
+    "camera": "images",
+    "head_frames": "images/head",
+    "wrist_frames": "images/wrist",
+    "head_depth_frames": "images/head_depth",
+    "wrist_depth_frames": "images/wrist_depth",
+    "camera_calibration": "camera_calibration.json",
+    "rgbd_sync": "rgbd_frames.csv"
+  },
+  "counts": {
+    "rtde_samples": 157,
+    "gripper_events": 2,
+    "frame_pairs": 157
+  },
+  "depth_recording": {
+    "version": 1,
+    "enabled": true,
+    "encoding": "png_uint16",
+    "alignment": "depth_to_color",
+    "invalid_value": 0,
+    "complete_pairs": 157,
+    "units": "device_units; multiply by per-camera depth_scale_m_per_unit in calibration"
+  },
+  "quality": {
+    "last_open_controller_time_s": 2371.083,
+    "last_frame_controller_time_s": 2373.283,
+    "last_open_to_last_frame_s": 2.2,
+    "recommended_release_tail_s": 1.0,
+    "release_tail_complete": true
+  },
+  "backup_export": {
+    "format_version": 1,
+    "source_data_unchanged": true,
+    "path_base": "directory containing session.json",
+    "redacted": [
+      "robot.host",
+      "gripper.port",
+      "camera serials",
+      "collection.data_root"
+    ]
+  }
+}

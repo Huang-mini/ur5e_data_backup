@@ -1,0 +1,29 @@
+{
+  "release_tag": "snapshot-2026-10-14",
+  "assets": [
+    {
+      "name": "ur5e-raw-success-2026-10-14-block_drawer.tar",
+      "bytes": 1216993280,
+      "sha256": "18e46c48ed38482141af79b97f42caa78e9501d09c1a2ae132714028f581575c",
+      "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-10-14/ur5e-raw-success-2026-10-14-block_drawer.tar"
+    },
+    {
+      "name": "ur5e-raw-success-2026-10-14-pick_place_cube.tar",
+      "bytes": 1501050880,
+      "sha256": "250b0fead977006517a97c595f6080c3524ed3158ff55099b9f2a2dea094fda4",
+      "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-10-14/ur5e-raw-success-2026-10-14-pick_place_cube.tar"
+    },
+    {
+      "name": "ur5e-raw-success-2026-10-14-pour_beans.tar",
+      "bytes": 1607598080,
+      "sha256": "28e287cf5b477083bcefdceb565b91fd98f186406f9920817a915d9db860322b",
+      "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-10-14/ur5e-raw-success-2026-10-14-pour_beans.tar"
+    },
+    {
+      "name": "ur5e-raw-success-2026-10-14-sort_blocks.tar",
+      "bytes": 1341061120,
+      "sha256": "767286612aa69f58d57a76226b44b1765b03c21bb8b7659397db87f4975b4179",
+      "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-10-14/ur5e-raw-success-2026-10-14-sort_blocks.tar"
+    }
+  ]
+}
