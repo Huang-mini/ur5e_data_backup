@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-14",
-  "selection": "successful, completed schema-v3 sessions collected on 2026-10-14",
-  "sessions": 29,
+  "latest_snapshot_date": "2026-10-17",
+  "selection": "successful, completed schema-v3 sessions",
+  "sessions": 42,
   "tasks": {
     "block_drawer": 8,
-    "pick_place_cube": 8,
+    "pick_place_cube": 21,
     "pour_beans": 7,
     "sort_blocks": 6
   },
-  "source_bytes": 5646059958,
-  "frame_pairs": 5892,
-  "release_assets": 4
+  "source_bytes": 7363034252,
+  "frame_pairs": 7607,
+  "release_assets": 5
 }

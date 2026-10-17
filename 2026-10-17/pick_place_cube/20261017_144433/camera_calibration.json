@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "alignment": "depth_to_color",
+  "encoding": "z16_uint16",
+  "invalid_depth_value": 0,
+  "extrinsics_rotation_layout": "column_major",
+  "cameras": {
+    "head": {
+      "serial": "243522072333",
+      "depth_scale_m_per_unit": 0.0010000000474974513,
+      "color_intrinsics": {
+        "width": 640,
+        "height": 480,
+        "fx": 608.0960083007812,
+        "fy": 608.2388916015625,
+        "ppx": 317.01715087890625,
+        "ppy": 249.49708557128906,
+        "coeffs": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "distortion_model": "distortion.inverse_brown_conrady"
+      },
+      "native_depth_intrinsics": {
+        "width": 640,
+        "height": 480,
+        "fx": 385.9059753417969,
+        "fy": 385.9059753417969,
+        "ppx": 321.86053466796875,
+        "ppy": 234.95896911621094,
+        "coeffs": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "distortion_model": "distortion.brown_conrady"
+      },
+      "depth_to_color": {
+        "rotation": [
+          0.9998897910118103,
+          -0.014812086708843708,
+          -0.0010241070995107293,
+          0.014812580309808254,
+          0.999890148639679,
+          0.00047540516243316233,
+          0.0010169529123231769,
+          -0.0004905224195681512,
+          0.9999993443489075
+        ],
+        "translation_m": [
+          0.014686491340398788,
+          -5.593394598690793e-05,
+          0.0004378751036711037
+        ]
+      },
+      "streams": {
+        "color": {
+          "width": 640,
+          "height": 480,
+          "fps": 30,
+          "format": "format.bgr8"
+        },
+        "depth": {
+          "width": 640,
+          "height": 480,
+          "fps": 30,
+          "format": "format.z16"
+        }
+      },
+      "name": "Intel RealSense D435I",
+      "firmware_version": "5.17.0.10",
+      "usb_type_descriptor": "3.2",
+      "aligned_depth_intrinsics": {
+        "width": 640,
+        "height": 480,
+        "fx": 608.0960083007812,
+        "fy": 608.2388916015625,
+        "ppx": 317.01715087890625,
+        "ppy": 249.49708557128906,
+        "coeffs": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "distortion_model": "distortion.inverse_brown_conrady"
+      }
+    },
+    "wrist": {
+      "serial": "233522079334",
+      "depth_scale_m_per_unit": 0.0010000000474974513,
+      "color_intrinsics": {
+        "width": 640,
+        "height": 480,
+        "fx": 606.759521484375,
+        "fy": 606.7249755859375,
+        "ppx": 318.58453369140625,
+        "ppy": 249.40988159179688,
+        "coeffs": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "distortion_model": "distortion.inverse_brown_conrady"
+      },
+      "native_depth_intrinsics": {
+        "width": 640,
+        "height": 480,
+        "fx": 388.7869873046875,
+        "fy": 388.7869873046875,
+        "ppx": 322.5325012207031,
+        "ppy": 239.9696502685547,
+        "coeffs": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "distortion_model": "distortion.brown_conrady"
+      },
+      "depth_to_color": {
+        "rotation": [
+          0.9999015927314758,
+          -0.012729997746646404,
+          0.005896328948438168,
+          0.012732245959341526,
+          0.9999188780784607,
+          -0.00034391062217764556,
+          -0.005891472566872835,
+          0.0004189502797089517,
+          0.9999825358390808
+        ],
+        "translation_m": [
+          0.014571066945791245,
+          0.00012084312766091898,
+          0.0004699749406427145
+        ]
+      },
+      "streams": {
+        "color": {
+          "width": 640,
+          "height": 480,
+          "fps": 30,
+          "format": "format.bgr8"
+        },
+        "depth": {
+          "width": 640,
+          "height": 480,
+          "fps": 30,
+          "format": "format.z16"
+        }
+      },
+      "name": "Intel RealSense D435I",
+      "firmware_version": "5.17.0.10",
+      "usb_type_descriptor": "3.2",
+      "aligned_depth_intrinsics": {
+        "width": 640,
+        "height": 480,
+        "fx": 606.759521484375,
+        "fy": 606.7249755859375,
+        "ppx": 318.58453369140625,
+        "ppy": 249.40988159179688,
+        "coeffs": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "distortion_model": "distortion.inverse_brown_conrady"
+      }
+    }
+  },
+  "sdk_version": "2.56.5.9235",
+  "depth_to_meters": "uint16_value * depth_scale_m_per_unit",
+  "time_relation": "SDK timestamps and host receipt; no robot/camera hardware sync claimed"
+}
