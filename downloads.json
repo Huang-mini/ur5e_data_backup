@@ -30,6 +30,12 @@
       "bytes": 1722982400,
       "sha256": "6da0dfe0d4b1e6acbaf42d4e6c86bda0b21aeb7282801dc8cdf672ec29036183",
       "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-10-17/ur5e-raw-success-2026-10-17-pick_place_cube.tar"
+    },
+    {
+      "name": "ur5e-raw-success-2026-10-19-pick_place_cube.tar",
+      "bytes": 1282426880,
+      "sha256": "964058dae6bce8922e5f067be83d8b62063e2e7dd2adbd0fac049b0005a74f49",
+      "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-10-19/ur5e-raw-success-2026-10-19-pick_place_cube.tar"
     }
   ]
 }

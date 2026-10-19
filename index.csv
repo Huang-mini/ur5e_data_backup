@@ -41,3 +41,13 @@ date,task,run_id,duration_s,frame_pairs,rtde_samples,source_files,source_bytes,p
 2026-10-17,pick_place_cube,20261017_144433,14.531,133,134,538,132820055,2026-10-17/pick_place_cube/20261017_144433,ur5e-raw-success-2026-10-17-pick_place_cube.tar
 2026-10-17,pick_place_cube,20261017_144509,12.282,113,114,458,113380761,2026-10-17/pick_place_cube/20261017_144509,ur5e-raw-success-2026-10-17-pick_place_cube.tar
 2026-10-17,pick_place_cube,20261017_144914,16.145,153,153,618,154662087,2026-10-17/pick_place_cube/20261017_144914,ur5e-raw-success-2026-10-17-pick_place_cube.tar
+2026-10-19,pick_place_cube,20261019_140908,14.187,131,131,530,130180273,2026-10-19/pick_place_cube/20261019_140908,ur5e-raw-success-2026-10-19-pick_place_cube.tar
+2026-10-19,pick_place_cube,20261019_141017,13.198,118,119,478,117603882,2026-10-19/pick_place_cube/20261019_141017,ur5e-raw-success-2026-10-19-pick_place_cube.tar
+2026-10-19,pick_place_cube,20261019_141054,13.731,124,125,502,124242581,2026-10-19/pick_place_cube/20261019_141054,ur5e-raw-success-2026-10-19-pick_place_cube.tar
+2026-10-19,pick_place_cube,20261019_141133,13.998,133,133,538,132663904,2026-10-19/pick_place_cube/20261019_141133,ur5e-raw-success-2026-10-19-pick_place_cube.tar
+2026-10-19,pick_place_cube,20261019_141209,12.063,110,110,446,110100742,2026-10-19/pick_place_cube/20261019_141209,ur5e-raw-success-2026-10-19-pick_place_cube.tar
+2026-10-19,pick_place_cube,20261019_141301,14.201,139,139,562,139427000,2026-10-19/pick_place_cube/20261019_141301,ur5e-raw-success-2026-10-19-pick_place_cube.tar
+2026-10-19,pick_place_cube,20261019_141552,13.974,134,134,542,133534845,2026-10-19/pick_place_cube/20261019_141552,ur5e-raw-success-2026-10-19-pick_place_cube.tar
+2026-10-19,pick_place_cube,20261019_141704,14.631,138,139,558,138714376,2026-10-19/pick_place_cube/20261019_141704,ur5e-raw-success-2026-10-19-pick_place_cube.tar
+2026-10-19,pick_place_cube,20261019_142105,13.646,132,133,534,132238501,2026-10-19/pick_place_cube/20261019_142105,ur5e-raw-success-2026-10-19-pick_place_cube.tar
+2026-10-19,pick_place_cube,20261019_142350,12.305,119,120,482,119236118,2026-10-19/pick_place_cube/20261019_142350,ur5e-raw-success-2026-10-19-pick_place_cube.tar
