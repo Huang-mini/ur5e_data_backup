@@ -3,14 +3,15 @@
   "selection": "successful, completed schema-v3 sessions",
   "sessions": 63,
   "tasks": {
-    "block_drawer": 14,
+    "block_drawer": 12,
     "pick_place_cube": 31,
     "pour_beans": 7,
     "sort_blocks": 8,
     "block_stack": 1,
+    "box_block": 2,
     "plug_charger": 2
   },
-  "source_bytes": 11252972811,
+  "source_bytes": 11252972805,
   "frame_pairs": 11416,
-  "release_assets": 10
+  "release_assets": 11
 }

@@ -1,17 +1,17 @@
 {
   "schema_version": 3,
-  "run_id": "20261028_204702",
-  "task": "block_drawer",
+  "run_id": "20261028_205303",
+  "task": "box_block",
   "note": "1028",
-  "started_at": "2026-10-28T20:47:05.654339+08:00",
-  "finished_at": "2026-10-28T20:47:36.002049+08:00",
-  "duration_s": 30.347,
+  "started_at": "2026-10-28T20:53:06.558158+08:00",
+  "finished_at": "2026-10-28T20:53:27.978332+08:00",
+  "duration_s": 21.419,
   "recording_status": "completed",
   "stop_reason": "user_quit",
   "outcome": "success",
   "reviews": [
     {
-      "reviewed_at": "2026-10-28T20:47:37.724840+08:00",
+      "reviewed_at": "2026-10-28T20:53:31.429543+08:00",
       "result": "success",
       "note": null
     }
@@ -107,22 +107,22 @@
     "tcp_offset_source": "tcp_offset_flange_to_tcp"
   },
   "initial_robot_state": {
-    "controller_time_s": 3786.4719999999998,
+    "controller_time_s": 4147.376,
     "tcp_pose": [
-      -0.4479484226090245,
-      -0.47796380743335726,
-      0.3397747795853567,
-      1.135084181744608,
-      2.893878422281998,
-      -0.026765869989829466
+      -0.4479514159907102,
+      -0.4779533591286181,
+      0.33977803753889485,
+      1.1351170960589112,
+      2.8938577795336347,
+      -0.026739285068356634
     ],
     "actual_q": [
-      0.6091233491897583,
-      -1.1708105069449921,
-      1.4655068556415003,
-      -1.8609191379942835,
-      -1.5287378470050257,
-      -0.21472007433046514
+      0.6091078519821167,
+      -1.1708225768855591,
+      1.465510670338766,
+      -1.8608924351134242,
+      -1.528741184865133,
+      -0.21471149126161748
     ],
     "actual_qd": [
       0.0,
@@ -140,7 +140,7 @@
       0.0,
       0.0
     ],
-    "host_receive_time_s": 1793191625.4436731
+    "host_receive_time_s": 1793191986.3466904
   },
   "collection": {
     "enable_freedrive_on_start": true,
@@ -161,9 +161,9 @@
     "rgbd_sync": "rgbd_frames.csv"
   },
   "counts": {
-    "rtde_samples": 294,
+    "rtde_samples": 210,
     "gripper_events": 3,
-    "frame_pairs": 294
+    "frame_pairs": 209
   },
   "depth_recording": {
     "version": 1,
@@ -171,13 +171,13 @@
     "encoding": "png_uint16",
     "alignment": "depth_to_color",
     "invalid_value": 0,
-    "complete_pairs": 294,
+    "complete_pairs": 209,
     "units": "device_units; multiply by per-camera depth_scale_m_per_unit in calibration"
   },
   "quality": {
-    "last_open_controller_time_s": 3799.672,
-    "last_frame_controller_time_s": 3816.272,
-    "last_open_to_last_frame_s": 16.6,
+    "last_open_controller_time_s": 4155.076,
+    "last_frame_controller_time_s": 4168.476,
+    "last_open_to_last_frame_s": 13.4,
     "recommended_release_tail_s": 1.0,
     "release_tail_complete": true
   },

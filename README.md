@@ -7,7 +7,8 @@ Git 仓库保存脱敏后的 session、动作/夹爪/同步 CSV、相机校准�
 ## 内容
 
 - `pick_place_cube`：31 条
-- `block_drawer`：14 条
+- `block_drawer`：12 条
+- `box_block`：2 条
 - `sort_blocks`：8 条
 - `pour_beans`：7 条
 - `plug_charger`：2 条
