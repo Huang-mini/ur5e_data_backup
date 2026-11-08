@@ -1,0 +1,4 @@
+controller_time_s,event,gripper_state
+1861.991,close,1
+1865.991,open,0
+1867.991,close,1
