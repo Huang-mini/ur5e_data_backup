@@ -1,5 +1,5 @@
 {
-  "latest_release_tag": "snapshot-2026-11-08",
+  "latest_release_tag": "snapshot-2026-11-09",
   "assets": [
     {
       "name": "ur5e-raw-success-2026-10-14-block_drawer.tar",
@@ -102,6 +102,12 @@
       "bytes": 152965120,
       "sha256": "d10a8d22f1f2953bb3651761f9ece435d8c31253b503357e630b0c8242984e10",
       "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-11-08/ur5e-raw-success-2026-11-08-box_block-part3.tar"
+    },
+    {
+      "name": "ur5e-raw-success-2026-11-09-sort_blocks.tar",
+      "bytes": 1469388800,
+      "sha256": "963505aad89d9a16ff8642b946fc67ee052e7993c358f87adaae177c59ff6105",
+      "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-11-09/ur5e-raw-success-2026-11-09-sort_blocks.tar"
     }
   ]
 }

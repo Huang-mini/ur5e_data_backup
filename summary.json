@@ -1,17 +1,17 @@
 {
-  "latest_snapshot_date": "2026-11-08",
+  "latest_snapshot_date": "2026-11-09",
   "selection": "successful, completed schema-v3 sessions",
-  "sessions": 86,
+  "sessions": 92,
   "tasks": {
     "block_drawer": 12,
     "pick_place_cube": 31,
     "pour_beans": 7,
-    "sort_blocks": 10,
+    "sort_blocks": 16,
     "block_stack": 3,
     "box_block": 19,
     "plug_charger": 4
   },
-  "source_bytes": 15292626445,
-  "frame_pairs": 15462,
-  "release_assets": 17
+  "source_bytes": 16756958711,
+  "frame_pairs": 16912,
+  "release_assets": 18
 }
