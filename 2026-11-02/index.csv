@@ -1,0 +1,7 @@
+date,task,run_id,outcome,schema_version,has_measured_joints,duration_s,frame_pairs,rtde_samples,source_bytes,source_files,path,asset,max_rtde_gap_s
+2026-11-02,block_stack,20261102_143512,success,3,True,15.298,143,144,140925691,578,2026-11-02/block_stack/20261102_143512,ur5e-raw-success-2026-11-02-block_stack.tar,0.1
+2026-11-02,block_stack,20261102_144241,success,3,True,16.707,155,156,153147000,626,2026-11-02/block_stack/20261102_144241,ur5e-raw-success-2026-11-02-block_stack.tar,0.4
+2026-11-02,plug_charger,20261102_141826,success,3,True,20.391,193,193,188396770,778,2026-11-02/plug_charger/20261102_141826,ur5e-raw-success-2026-11-02-plug_charger.tar,0.4
+2026-11-02,plug_charger,20261102_142145,success,3,True,17.303,166,167,163701011,670,2026-11-02/plug_charger/20261102_142145,ur5e-raw-success-2026-11-02-plug_charger.tar,0.1
+2026-11-02,sort_blocks,20261102_134342,success,3,True,27.237,263,264,260971288,1058,2026-11-02/sort_blocks/20261102_134342,ur5e-raw-success-2026-11-02-sort_blocks.tar,0.1
+2026-11-02,sort_blocks,20261102_141150,success,3,True,26.324,251,252,252757787,1010,2026-11-02/sort_blocks/20261102_141150,ur5e-raw-success-2026-11-02-sort_blocks.tar,0.1

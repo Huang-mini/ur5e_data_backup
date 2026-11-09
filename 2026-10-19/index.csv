@@ -1,0 +1,11 @@
+date,task,run_id,outcome,schema_version,has_measured_joints,duration_s,frame_pairs,rtde_samples,source_bytes,source_files,path,asset,max_rtde_gap_s
+2026-10-19,pick_place_cube,20261019_140908,success,3,True,14.187,131,131,130180273,530,2026-10-19/pick_place_cube/20261019_140908,ur5e-raw-success-2026-10-19-pick_place_cube.tar,0.1
+2026-10-19,pick_place_cube,20261019_141017,success,3,True,13.198,118,119,117603882,478,2026-10-19/pick_place_cube/20261019_141017,ur5e-raw-success-2026-10-19-pick_place_cube.tar,0.1
+2026-10-19,pick_place_cube,20261019_141054,success,3,True,13.731,124,125,124242581,502,2026-10-19/pick_place_cube/20261019_141054,ur5e-raw-success-2026-10-19-pick_place_cube.tar,0.1
+2026-10-19,pick_place_cube,20261019_141133,success,3,True,13.998,133,133,132663904,538,2026-10-19/pick_place_cube/20261019_141133,ur5e-raw-success-2026-10-19-pick_place_cube.tar,0.1
+2026-10-19,pick_place_cube,20261019_141209,success,3,True,12.063,110,110,110100742,446,2026-10-19/pick_place_cube/20261019_141209,ur5e-raw-success-2026-10-19-pick_place_cube.tar,0.1
+2026-10-19,pick_place_cube,20261019_141301,success,3,True,14.201,139,139,139427000,562,2026-10-19/pick_place_cube/20261019_141301,ur5e-raw-success-2026-10-19-pick_place_cube.tar,0.1
+2026-10-19,pick_place_cube,20261019_141552,success,3,True,13.974,134,134,133534845,542,2026-10-19/pick_place_cube/20261019_141552,ur5e-raw-success-2026-10-19-pick_place_cube.tar,0.1
+2026-10-19,pick_place_cube,20261019_141704,success,3,True,14.631,138,139,138714376,558,2026-10-19/pick_place_cube/20261019_141704,ur5e-raw-success-2026-10-19-pick_place_cube.tar,0.1
+2026-10-19,pick_place_cube,20261019_142105,success,3,True,13.646,132,133,132238501,534,2026-10-19/pick_place_cube/20261019_142105,ur5e-raw-success-2026-10-19-pick_place_cube.tar,0.1
+2026-10-19,pick_place_cube,20261019_142350,success,3,True,12.305,119,120,119236118,482,2026-10-19/pick_place_cube/20261019_142350,ur5e-raw-success-2026-10-19-pick_place_cube.tar,0.1

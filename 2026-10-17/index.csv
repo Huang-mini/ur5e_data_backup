@@ -1,0 +1,14 @@
+date,task,run_id,outcome,schema_version,has_measured_joints,duration_s,frame_pairs,rtde_samples,source_bytes,source_files,path,asset,max_rtde_gap_s
+2026-10-17,pick_place_cube,20261017_143505,success,3,True,17.761,169,170,168402250,682,2026-10-17/pick_place_cube/20261017_143505,ur5e-raw-success-2026-10-17-pick_place_cube.tar,0.1
+2026-10-17,pick_place_cube,20261017_143600,success,3,True,15.725,147,148,148168530,594,2026-10-17/pick_place_cube/20261017_143600,ur5e-raw-success-2026-10-17-pick_place_cube.tar,0.1
+2026-10-17,pick_place_cube,20261017_143946,success,3,True,14.452,140,141,139539266,566,2026-10-17/pick_place_cube/20261017_143946,ur5e-raw-success-2026-10-17-pick_place_cube.tar,0.1
+2026-10-17,pick_place_cube,20261017_144025,success,3,True,15.369,145,145,143997638,586,2026-10-17/pick_place_cube/20261017_144025,ur5e-raw-success-2026-10-17-pick_place_cube.tar,0.1
+2026-10-17,pick_place_cube,20261017_144108,success,3,True,12.74,123,124,122972096,498,2026-10-17/pick_place_cube/20261017_144108,ur5e-raw-success-2026-10-17-pick_place_cube.tar,0.1
+2026-10-17,pick_place_cube,20261017_144140,success,3,True,14.221,138,138,137914613,558,2026-10-17/pick_place_cube/20261017_144140,ur5e-raw-success-2026-10-17-pick_place_cube.tar,0.1
+2026-10-17,pick_place_cube,20261017_144217,success,3,True,11.566,113,114,112115974,458,2026-10-17/pick_place_cube/20261017_144217,ur5e-raw-success-2026-10-17-pick_place_cube.tar,0.1
+2026-10-17,pick_place_cube,20261017_144249,success,3,True,12.255,109,110,110822322,442,2026-10-17/pick_place_cube/20261017_144249,ur5e-raw-success-2026-10-17-pick_place_cube.tar,0.1
+2026-10-17,pick_place_cube,20261017_144328,success,3,True,11.516,112,113,112393110,454,2026-10-17/pick_place_cube/20261017_144328,ur5e-raw-success-2026-10-17-pick_place_cube.tar,0.1
+2026-10-17,pick_place_cube,20261017_144358,success,3,True,12.498,120,121,119785592,486,2026-10-17/pick_place_cube/20261017_144358,ur5e-raw-success-2026-10-17-pick_place_cube.tar,0.1
+2026-10-17,pick_place_cube,20261017_144433,success,3,True,14.531,133,134,132820055,538,2026-10-17/pick_place_cube/20261017_144433,ur5e-raw-success-2026-10-17-pick_place_cube.tar,0.1
+2026-10-17,pick_place_cube,20261017_144509,success,3,True,12.282,113,114,113380761,458,2026-10-17/pick_place_cube/20261017_144509,ur5e-raw-success-2026-10-17-pick_place_cube.tar,0.1
+2026-10-17,pick_place_cube,20261017_144914,success,3,True,16.145,153,153,154662087,618,2026-10-17/pick_place_cube/20261017_144914,ur5e-raw-success-2026-10-17-pick_place_cube.tar,0.4
