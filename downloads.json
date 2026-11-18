@@ -116,55 +116,16 @@
       "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-11-10/ur5e-raw-success-2026-11-10-box_block.tar"
     },
     {
-      "name": "ur5e-raw-success-2026-11-13-pour_beans-20261113_144920.tar",
-      "bytes": 378961920,
-      "sha256": "dafe26f9dc9ae36f283c14d0db050952b74e2d205b56785c240193c824f7e66b",
-      "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-11-13/ur5e-raw-success-2026-11-13-pour_beans-20261113_144920.tar"
-    },
-    {
-      "name": "ur5e-raw-success-2026-11-13-pour_beans-20261113_150158.tar",
-      "bytes": 338616320,
-      "sha256": "172fe8b71b8abe4e3baa0d62ef15f62bd93326b2df2c0c4124e6fdc9219ea2b0",
-      "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-11-13/ur5e-raw-success-2026-11-13-pour_beans-20261113_150158.tar"
-    },
-    {
-      "name": "ur5e-raw-success-2026-11-13-pour_beans-20261113_150937.tar",
-      "bytes": 344678400,
-      "sha256": "8b988c3b48236987538f1e8ac4167b1dce02158df1b059567bcac43b6912193d",
-      "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-11-13/ur5e-raw-success-2026-11-13-pour_beans-20261113_150937.tar"
-    },
-    {
-      "name": "ur5e-raw-success-2026-11-13-pour_beans-part3.tar",
-      "bytes": 332728320,
-      "sha256": "7f7a7b0593454778380f9b009d429514522067b498ef615b18d4797e57bb64bb",
-      "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-11-13/ur5e-raw-success-2026-11-13-pour_beans-part3.tar"
-    },
-    {
-      "name": "ur5e-raw-success-2026-11-13-pour_beans-20261113_145834-part1.tar",
-      "bytes": 188272640,
-      "sha256": "00cd7813827dedb55e0acd69d50b3fee465efd74330fdf0d318db51785e9bfbe",
-      "members": 479,
-      "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-11-13/ur5e-raw-success-2026-11-13-pour_beans-20261113_145834-part1.tar"
-    },
-    {
-      "name": "ur5e-raw-success-2026-11-13-pour_beans-20261113_145834-part2.tar",
-      "bytes": 188467200,
-      "sha256": "fae0d6ac773ce9f5d9a23ff395beadecd7970fcf1dc5a882663131446dd47df1",
-      "members": 1105,
-      "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-11-13/ur5e-raw-success-2026-11-13-pour_beans-20261113_145834-part2.tar"
-    },
-    {
-      "name": "ur5e-raw-success-2026-11-13-pour_beans-20261113_145834-part3.tar",
-      "bytes": 2764800,
-      "sha256": "dab9a285c0451df26c957ac06ada7c44bd8a67b327dff59ef23568bb0d8d0c19",
-      "members": 55,
-      "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-11-13/ur5e-raw-success-2026-11-13-pour_beans-20261113_145834-part3.tar"
-    },
-    {
       "name": "ur5e-raw-success-2026-11-16-plug_charger.tar",
       "bytes": 785623040,
       "sha256": "84632ca394e2f3a06d09fdea767e239652887305b3fcf3ac234432ee481d473b",
       "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-11-16/ur5e-raw-success-2026-11-16-plug_charger.tar"
+    },
+    {
+      "name": "ur5e-raw-success-2026-11-13-pour_beans.tar",
+      "bytes": 1774448640,
+      "sha256": "375fadc110e88f4e671be13f3b3d481dffb801bfbea79b0be3b71a25f3aee98d",
+      "url": "https://github.com/Huang-mini/ur5e_data_backup/releases/download/snapshot-2026-11-13/ur5e-raw-success-2026-11-13-pour_beans.tar"
     }
   ]
 }
