@@ -1,0 +1,4 @@
+controller_time_s,event,gripper_state
+502.86199999999997,close,1
+506.962,open,0
+509.962,close,1
